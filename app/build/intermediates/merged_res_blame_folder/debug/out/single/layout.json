@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row_conversation.xml",
+        "source": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/src/main/res/layout/row_conversation.xml"
+    },
+    {
+        "merged": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_sent.xml",
+        "source": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/src/main/res/layout/item_sent.xml"
+    },
+    {
+        "merged": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_call.xml",
+        "source": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/src/main/res/layout/activity_call.xml"
+    },
+    {
+        "merged": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/demo_layout.xml",
+        "source": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/src/main/res/layout/demo_layout.xml"
+    },
+    {
+        "merged": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_status.xml",
+        "source": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/src/main/res/layout/item_status.xml"
+    },
+    {
+        "merged": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_receive.xml",
+        "source": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/src/main/res/layout/item_receive.xml"
+    },
+    {
+        "merged": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_chat.xml",
+        "source": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sign_in.xml",
+        "source": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/delete_dialog.xml",
+        "source": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/src/main/res/layout/delete_dialog.xml"
+    },
+    {
+        "merged": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_setting.xml",
+        "source": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_group_chat.xml",
+        "source": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/src/main/res/layout/activity_group_chat.xml"
+    },
+    {
+        "merged": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sign_up.xml",
+        "source": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_receive_group.xml",
+        "source": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/src/main/res/layout/item_receive_group.xml"
+    },
+    {
+        "merged": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/demo_status.xml",
+        "source": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/src/main/res/layout/demo_status.xml"
+    },
+    {
+        "merged": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_sent_group.xml",
+        "source": "/Users/nvn_nicky/Downloads/Almost done XIAOMAI/Qiaomi_Native/app/src/main/res/layout/item_sent_group.xml"
+    }
+]

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "470137599529",
+    "firebase_url": "https://qiaomi-native-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "qiaomi-native",
+    "storage_bucket": "qiaomi-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470137599529:android:6744c05009679e68d68e38",
+        "android_client_info": {
+          "package_name": "com.aoop.qiaomi_native"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470137599529-n4cp5c5s9fqes04n7hi4afvllh80ap4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjrflF7GebPl-rairKxNmtMvE4xfuqTII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470137599529-n4cp5c5s9fqes04n7hi4afvllh80ap4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
